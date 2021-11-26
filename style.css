@@ -220,7 +220,7 @@ body .wrapper {
 
 
 .bg_img .btn_new:hover {
-    background-color: rgb(247, 10, 10);
+    background-color: rgb(247, 10, 136);
     -webkit-transition: .3s ease-in-out;
     -o-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
@@ -938,6 +938,7 @@ ol, #uk {
         left: -11px;
         top: -18px;
     }
+
     .flt button {
         font-size: 10px;
         padding: 10px 20px;
@@ -1067,6 +1068,7 @@ ol, #uk {
     -webkit-transition: .3s ease-in-out;
     -o-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
+    background-color: rgba(255, 0, 0, 1);
 }
 
 .crt__text .btnpr img {
